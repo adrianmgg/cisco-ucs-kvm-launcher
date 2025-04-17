@@ -3,10 +3,10 @@ utility to launch the java-based KVM for a Cisco UCS server,
 without the need for a browser with flash & java applet support.
 
 # installation
-either:
-- install with `cargo install --git https://github.com/adrianmgg/cisco-ucs-kvm-launcher.git`
-- or, clone and `cargo install --path .`
-then, install [OpenWebStart](https://openwebstart.com/).
+1. install this program:
+   - install with `cargo install --git https://github.com/adrianmgg/cisco-ucs-kvm-launcher.git`
+   - or, clone and `cargo install --path .`
+2. install [OpenWebStart](https://openwebstart.com/).
 
 # usage
 ```
