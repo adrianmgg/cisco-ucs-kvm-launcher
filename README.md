@@ -6,6 +6,7 @@ without the need for a browser with flash & java applet support.
 either:
 - install with `cargo install --git https://github.com/adrianmgg/cisco-ucs-kvm-launcher.git`
 - or, clone and `cargo install --path .`
+then, install [OpenWebStart](https://openwebstart.com/).
 
 # usage
 ```
@@ -36,7 +37,10 @@ Options:
           Print version
 ```
 > [!TIP]
-> some cli arguments can also be supplied via environment variables, e.g. `UCS_IP` in place of `--ip`
+> some cli arguments can instead be supplied via environment variables, e.g. `UCS_IP` in place of `--ip`
+
+# troubleshooting
+- if it reports an HTTP 403 Forbidden error while logging in, try running with `--use-https`
 
 # development
 for better errors & more logging, run with these environment vars set:
