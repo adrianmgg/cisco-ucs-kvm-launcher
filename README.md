@@ -41,6 +41,7 @@ Options:
 
 # troubleshooting
 - if it reports an HTTP 403 Forbidden error while logging in, try running with `--use-https`
+- newer UCS software releases (`4.1`+, afaict) don't support the java-based KVM, but also don't (from what i've seen) require flash or java at all, so the management page should just be usable in any modern browser.
 
 # development
 for better errors & more logging, run with these environment vars set:
