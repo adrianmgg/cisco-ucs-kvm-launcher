@@ -51,3 +51,4 @@ for better errors & more logging, run with these environment vars set:
 # some stuff I referenced to build this
 - [Manage UCS C-Series M3 and M4 Servers that Do Not Support HTML5 After Flash Deprecation](https://www.cisco.com/c/en/us/support/docs/servers-unified-computing/integrated-management-controller/217676-manage-ucs-c-series-m3-and-m4-servers-th.html)
 - [Cisco UCS Rack-Mount Servers Cisco IMC XML API Programmer's Guide, Release 4.0](https://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/c/sw/api/4_0/b_Cisco_IMC_api_40.pdf)
+- [Release Notes for Cisco UCS Rack Server Software](https://www.cisco.com/c/en/us/support/servers-unified-computing/ucs-c-series-integrated-management-controller/products-release-notes-list.html)
